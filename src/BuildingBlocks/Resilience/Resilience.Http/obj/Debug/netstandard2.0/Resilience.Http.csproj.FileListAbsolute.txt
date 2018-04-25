@@ -1,0 +1,18 @@
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\Resilience\Resilience.Http\bin\Debug\netstandard2.0\Resilience.Http.deps.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\Resilience\Resilience.Http\bin\Debug\netstandard2.0\Resilience.Http.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\Resilience\Resilience.Http\bin\Debug\netstandard2.0\Resilience.Http.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard2.0\Resilience.Http.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard2.0\Resilience.Http.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard2.0\Resilience.Http.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard2.0\Resilience.Http.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard2.0\Resilience.Http.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard2.0\Resilience.Http.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\Resilience\Resilience.Http\bin\Debug\netstandard2.0\Resilience.Http.deps.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\Resilience\Resilience.Http\bin\Debug\netstandard2.0\Resilience.Http.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\Resilience\Resilience.Http\bin\Debug\netstandard2.0\Resilience.Http.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard2.0\Resilience.Http.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard2.0\Resilience.Http.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard2.0\Resilience.Http.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard2.0\Resilience.Http.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard2.0\Resilience.Http.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard2.0\Resilience.Http.csprojResolveAssemblyReference.cache

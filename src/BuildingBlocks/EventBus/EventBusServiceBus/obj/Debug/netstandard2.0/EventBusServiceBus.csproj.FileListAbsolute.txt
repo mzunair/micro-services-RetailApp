@@ -1,0 +1,23 @@
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.0\EventBusServiceBus.deps.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.0\EventBusServiceBus.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.0\EventBusServiceBus.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.0\EventBus.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.0\EventBus.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.0\EventBusServiceBus.deps.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.0\EventBusServiceBus.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.0\EventBusServiceBus.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.0\EventBus.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.0\EventBus.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.csproj.CopyComplete
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.pdb

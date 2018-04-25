@@ -1,0 +1,297 @@
+services:
+  basket.api:
+    build:
+      context: C:\Users\muhammad.zunair\Desktop\Retail Application
+      dockerfile: src/Services/Basket/Basket.API/Dockerfile
+    depends_on:
+    - basket.data
+    - identity.api
+    - rabbitmq
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://0.0.0.0:80
+      ApplicationInsights__InstrumentationKey: ''
+      AzureServiceBusEnabled: "False"
+      ConnectionString: basket.data
+      EventBusConnection: rabbitmq
+      EventBusPassword: ''
+      EventBusUserName: ''
+      IdentityUrlExternal: http://localhost:5105
+      OrchestratorType: ''
+      UseLoadTest: "False"
+      identityUrl: http://identity.api
+    image: eshop/basket.api:latest
+    ports:
+    - published: 5103
+      target: 80
+  basket.data:
+    image: redis:alpine
+    ports:
+    - published: 6379
+      target: 6379
+  catalog.api:
+    build:
+      context: C:\Users\muhammad.zunair\Desktop\Retail Application
+      dockerfile: src/Services/Catalog/Catalog.API/Dockerfile
+    depends_on:
+    - rabbitmq
+    - sql.data
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://0.0.0.0:80
+      ApplicationInsights__InstrumentationKey: ''
+      AzureServiceBusEnabled: "False"
+      AzureStorageAccountKey: ''
+      AzureStorageAccountName: ''
+      AzureStorageEnabled: "False"
+      ConnectionString: Server=sql.data;Database=Microsoft.eShopOnContainers.Services.CatalogDb;User
+        Id=sa;Password=Pass@word
+      EventBusConnection: rabbitmq
+      EventBusPassword: ''
+      EventBusUserName: ''
+      OrchestratorType: ''
+      PicBaseUrl: http://localhost:5101/api/v1/catalog/items/[0]/pic/
+      UseCustomizationData: "True"
+    image: eshop/catalog.api:latest
+    ports:
+    - published: 5101
+      target: 80
+  identity.api:
+    build:
+      context: C:\Users\muhammad.zunair\Desktop\Retail Application
+      dockerfile: src/Services/Identity/Identity.API/Dockerfile
+    depends_on:
+    - sql.data
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://0.0.0.0:80
+      ApplicationInsights__InstrumentationKey: ''
+      BasketApiClient: http://localhost:5103
+      ConnectionString: Server=sql.data;Database=Microsoft.eShopOnContainers.Service.IdentityDb;User
+        Id=sa;Password=Pass@word
+      LocationApiClient: http://localhost:5109
+      MarketingApiClient: http://localhost:5110
+      MvcClient: http://localhost:5100
+      OrchestratorType: ''
+      OrderingApiClient: http://localhost:5102
+      SpaClient: http://localhost:5104
+      UseCustomizationData: "True"
+      XamarinCallback: http://10.100.206.243:5105/xamarincallback
+    image: eshop/identity.api:latest
+    ports:
+    - published: 5105
+      target: 80
+  locations.api:
+    build:
+      context: C:\Users\muhammad.zunair\Desktop\Retail Application
+      dockerfile: src/Services/Location/Locations.API/Dockerfile
+    depends_on:
+    - nosql.data
+    - rabbitmq
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://0.0.0.0:80
+      ApplicationInsights__InstrumentationKey: ''
+      AzureServiceBusEnabled: "False"
+      ConnectionString: mongodb://nosql.data
+      Database: LocationsDb
+      EventBusConnection: rabbitmq
+      EventBusPassword: ''
+      EventBusUserName: ''
+      IdentityUrlExternal: http://localhost:5105
+      OrchestratorType: ''
+      UseLoadTest: "False"
+      identityUrl: http://identity.api
+    image: eshop/locations.api:latest
+    ports:
+    - published: 5109
+      target: 80
+  marketing.api:
+    build:
+      context: C:\Users\muhammad.zunair\Desktop\Retail Application
+      dockerfile: src/Services/Marketing/Marketing.API/Dockerfile
+    depends_on:
+    - identity.api
+    - nosql.data
+    - rabbitmq
+    - sql.data
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://0.0.0.0:80
+      ApplicationInsights__InstrumentationKey: ''
+      AzureServiceBusEnabled: "False"
+      AzureStorageAccountKey: ''
+      AzureStorageAccountName: ''
+      AzureStorageEnabled: "False"
+      CampaignDetailFunctionUri: ''
+      ConnectionString: Server=sql.data;Database=Microsoft.eShopOnContainers.Services.MarketingDb;User
+        Id=sa;Password=Pass@word
+      EventBusConnection: rabbitmq
+      EventBusPassword: ''
+      EventBusUserName: ''
+      IdentityUrlExternal: http://localhost:5105
+      MongoConnectionString: mongodb://nosql.data
+      MongoDatabase: MarketingDb
+      OrchestratorType: ''
+      PicBaseUrl: http://localhost:5110/api/v1/campaigns/[0]/pic/
+      UseLoadTest: "False"
+      identityUrl: http://identity.api
+    image: eshop/marketing.api:latest
+    ports:
+    - published: 5110
+      target: 80
+  nosql.data:
+    image: mongo
+    ports:
+    - published: 27017
+      target: 27017
+  ordering.api:
+    build:
+      context: C:\Users\muhammad.zunair\Desktop\Retail Application
+      dockerfile: src/Services/Ordering/Ordering.API/Dockerfile
+    depends_on:
+    - rabbitmq
+    - sql.data
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://0.0.0.0:80
+      ApplicationInsights__InstrumentationKey: ''
+      AzureServiceBusEnabled: "False"
+      CheckUpdateTime: '30000'
+      ConnectionString: Server=sql.data;Database=Microsoft.eShopOnContainers.Services.OrderingDb;User
+        Id=sa;Password=Pass@word
+      EventBusConnection: rabbitmq
+      EventBusPassword: ''
+      EventBusUserName: ''
+      GracePeriodTime: '1'
+      IdentityUrlExternal: http://localhost:5105
+      OrchestratorType: ''
+      UseCustomizationData: "True"
+      UseLoadTest: "False"
+      identityUrl: http://identity.api
+    image: eshop/ordering.api:latest
+    ports:
+    - published: 5102
+      target: 80
+  payment.api:
+    build:
+      context: C:\Users\muhammad.zunair\Desktop\Retail Application
+      dockerfile: src/Services/Payment/Payment.API/Dockerfile
+    depends_on:
+    - rabbitmq
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://0.0.0.0:80
+      ApplicationInsights__InstrumentationKey: ''
+      AzureServiceBusEnabled: "False"
+      EventBusConnection: rabbitmq
+      EventBusPassword: ''
+      EventBusUserName: ''
+      OrchestratorType: ''
+    image: eshop/payment.api:latest
+    ports:
+    - published: 5108
+      target: 80
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    ports:
+    - published: 5672
+      target: 5672
+    - published: 15672
+      target: 15672
+  sql.data:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Pass@word
+    image: microsoft/mssql-server-linux:2017-latest
+    ports:
+    - published: 5433
+      target: 1433
+  webmvc:
+    build:
+      context: C:\Users\muhammad.zunair\Desktop\Retail Application
+      dockerfile: src/Web/WebMVC/Dockerfile
+    depends_on:
+    - basket.api
+    - catalog.api
+    - identity.api
+    - marketing.api
+    - ordering.api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://0.0.0.0:80
+      ApplicationInsights__InstrumentationKey: ''
+      BasketUrl: http://basket.api
+      BasketUrlHC: http://basket.api/hc
+      CatalogUrl: http://catalog.api
+      CatalogUrlHC: http://catalog.api/hc
+      IdentityUrl: http://10.0.75.1:5105
+      IdentityUrlHC: http://identity.api/hc
+      LocationsUrl: http://locations.api
+      MarketingUrl: http://marketing.api
+      MarketingUrlHC: http://marketing.api/hc
+      OrchestratorType: ''
+      OrderingUrl: http://ordering.api
+      OrderingUrlHC: http://ordering.api/hc
+      PaymentUrlHC: http://payment.api/hc
+      UseCustomizationData: "True"
+      UseLoadTest: "False"
+    image: eshop/webmvc:latest
+    ports:
+    - published: 5100
+      target: 80
+  webspa:
+    build:
+      context: C:\Users\muhammad.zunair\Desktop\Retail Application
+      dockerfile: src/Web/WebSPA/Dockerfile
+    depends_on:
+    - basket.api
+    - catalog.api
+    - identity.api
+    - marketing.api
+    - ordering.api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://0.0.0.0:80
+      ApplicationInsights__InstrumentationKey: ''
+      BasketUrl: http://localhost:5103
+      BasketUrlHC: http://basket.api/hc
+      CatalogUrl: http://localhost:5101
+      CatalogUrlHC: http://catalog.api/hc
+      IdentityUrl: http://localhost:5105
+      IdentityUrlHC: http://identity.api/hc
+      LocationsUrl: http://localhost:5109
+      MarketingUrl: http://localhost:5110
+      MarketingUrlHC: http://marketing.api/hc
+      OrchestratorType: ''
+      OrderingUrl: http://localhost:5102
+      OrderingUrlHC: http://ordering.api/hc
+      PaymentUrlHC: http://payment.api/hc
+      UseCustomizationData: "True"
+    image: eshop/webspa:latest
+    ports:
+    - published: 5104
+      target: 80
+  webstatus:
+    build:
+      context: C:\Users\muhammad.zunair\Desktop\Retail Application
+      dockerfile: src/Web/WebStatus/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://0.0.0.0:80
+      ApplicationInsights__InstrumentationKey: ''
+      BasketUrl: http://basket.api/hc
+      CatalogUrl: http://catalog.api/hc
+      IdentityUrl: http://identity.api/hc
+      LocationsUrl: http://locations.api/hc
+      MarketingUrl: http://marketing.api/hc
+      OrchestratorType: ''
+      OrderingUrl: http://ordering.api/hc
+      PaymentUrl: http://payment.api/hc
+      mvc: http://webmvc/hc
+      spa: http://webspa/hc
+    image: eshop/webstatus:latest
+    ports:
+    - published: 5107
+      target: 80
+version: '3.3'

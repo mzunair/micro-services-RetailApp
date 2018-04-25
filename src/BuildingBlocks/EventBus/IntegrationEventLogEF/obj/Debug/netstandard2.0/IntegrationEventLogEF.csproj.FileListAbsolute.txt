@@ -1,0 +1,23 @@
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\IntegrationEventLogEF.deps.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\IntegrationEventLogEF.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\IntegrationEventLogEF.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\EventBus.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\EventBus.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\IntegrationEventLogEF.deps.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\IntegrationEventLogEF.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\IntegrationEventLogEF.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\EventBus.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\EventBus.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.csproj.CopyComplete
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.pdb

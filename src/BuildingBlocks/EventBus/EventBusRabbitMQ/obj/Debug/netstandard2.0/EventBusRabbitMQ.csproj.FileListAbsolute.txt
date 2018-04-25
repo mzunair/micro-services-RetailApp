@@ -1,0 +1,23 @@
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.0\EventBusRabbitMQ.deps.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.0\EventBusRabbitMQ.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.0\EventBusRabbitMQ.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.0\EventBus.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.0\EventBus.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.0\EventBusRabbitMQ.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.0\EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.0\EventBusRabbitMQ.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.0\EventBusRabbitMQ.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.0\EventBusRabbitMQ.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.0\EventBusRabbitMQ.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.0\EventBusRabbitMQ.deps.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.0\EventBusRabbitMQ.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.0\EventBusRabbitMQ.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.0\EventBus.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.0\EventBus.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.0\EventBusRabbitMQ.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.0\EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.0\EventBusRabbitMQ.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.0\EventBusRabbitMQ.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.0\EventBusRabbitMQ.csproj.CopyComplete
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.0\EventBusRabbitMQ.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.0\EventBusRabbitMQ.pdb

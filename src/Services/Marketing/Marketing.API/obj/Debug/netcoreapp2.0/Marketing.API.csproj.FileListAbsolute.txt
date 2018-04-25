@@ -1,0 +1,57 @@
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Pics\1.png
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Pics\2.png
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Marketing.API.deps.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Marketing.API.runtimeconfig.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Marketing.API.runtimeconfig.dev.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Marketing.API.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Marketing.API.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\EventBus.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\EventBusRabbitMQ.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\EventBusServiceBus.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.AzureStorage.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\WebHost.Customization.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\EventBusRabbitMQ.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.AzureStorage.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\EventBusServiceBus.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\WebHost.Customization.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\EventBus.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\obj\Debug\netcoreapp2.0\Marketing.API.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\obj\Debug\netcoreapp2.0\Marketing.API.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\obj\Debug\netcoreapp2.0\Marketing.API.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\obj\Debug\netcoreapp2.0\Marketing.API.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\obj\Debug\netcoreapp2.0\Marketing.API.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Marketing\Marketing.API\obj\Debug\netcoreapp2.0\Marketing.API.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Pics\1.png
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Pics\2.png
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Marketing.API.deps.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Marketing.API.runtimeconfig.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Marketing.API.runtimeconfig.dev.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Marketing.API.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Marketing.API.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\EventBus.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\EventBusRabbitMQ.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\EventBusServiceBus.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.AzureStorage.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\WebHost.Customization.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\EventBusRabbitMQ.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.AzureStorage.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\EventBusServiceBus.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\WebHost.Customization.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\bin\Debug\netcoreapp2.0\EventBus.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\obj\Debug\netcoreapp2.0\Marketing.API.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\obj\Debug\netcoreapp2.0\Marketing.API.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\obj\Debug\netcoreapp2.0\Marketing.API.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\obj\Debug\netcoreapp2.0\Marketing.API.csproj.CopyComplete
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\obj\Debug\netcoreapp2.0\Marketing.API.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\obj\Debug\netcoreapp2.0\Marketing.API.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API\obj\Debug\netcoreapp2.0\Marketing.API.csprojResolveAssemblyReference.cache

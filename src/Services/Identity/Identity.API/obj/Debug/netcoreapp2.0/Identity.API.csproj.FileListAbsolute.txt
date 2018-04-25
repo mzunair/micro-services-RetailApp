@@ -1,0 +1,45 @@
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Setup\images.zip
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Setup\Users.csv
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.deps.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.runtimeconfig.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.runtimeconfig.dev.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.SqlServer.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\WebHost.Customization.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.SqlServer.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\WebHost.Customization.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Setup\images.zip
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Setup\Users.csv
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.deps.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.runtimeconfig.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.runtimeconfig.dev.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.SqlServer.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\WebHost.Customization.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.SqlServer.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\bin\Debug\netcoreapp2.0\WebHost.Customization.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.csproj.CopyComplete
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.pdb

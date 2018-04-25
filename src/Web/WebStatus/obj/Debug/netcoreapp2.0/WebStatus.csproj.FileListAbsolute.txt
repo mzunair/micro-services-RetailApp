@@ -1,0 +1,31 @@
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Web\WebStatus\bin\Debug\netcoreapp2.0\WebStatus.deps.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Web\WebStatus\bin\Debug\netcoreapp2.0\WebStatus.runtimeconfig.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Web\WebStatus\bin\Debug\netcoreapp2.0\WebStatus.runtimeconfig.dev.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Web\WebStatus\bin\Debug\netcoreapp2.0\WebStatus.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Web\WebStatus\bin\Debug\netcoreapp2.0\WebStatus.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Web\WebStatus\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Web\WebStatus\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Web\WebStatus\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Web\WebStatus\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Web\WebStatus\obj\Debug\netcoreapp2.0\WebStatus.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Web\WebStatus\obj\Debug\netcoreapp2.0\WebStatus.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Web\WebStatus\obj\Debug\netcoreapp2.0\WebStatus.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Web\WebStatus\obj\Debug\netcoreapp2.0\WebStatus.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Web\WebStatus\obj\Debug\netcoreapp2.0\WebStatus.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Web\WebStatus\obj\Debug\netcoreapp2.0\WebStatus.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebStatus\bin\Debug\netcoreapp2.0\WebStatus.deps.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebStatus\bin\Debug\netcoreapp2.0\WebStatus.runtimeconfig.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebStatus\bin\Debug\netcoreapp2.0\WebStatus.runtimeconfig.dev.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebStatus\bin\Debug\netcoreapp2.0\WebStatus.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebStatus\bin\Debug\netcoreapp2.0\WebStatus.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebStatus\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebStatus\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebStatus\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebStatus\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebStatus\obj\Debug\netcoreapp2.0\WebStatus.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebStatus\obj\Debug\netcoreapp2.0\WebStatus.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebStatus\obj\Debug\netcoreapp2.0\WebStatus.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebStatus\obj\Debug\netcoreapp2.0\WebStatus.csproj.CopyComplete
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebStatus\obj\Debug\netcoreapp2.0\WebStatus.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebStatus\obj\Debug\netcoreapp2.0\WebStatus.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebStatus\obj\Debug\netcoreapp2.0\WebStatus.csprojResolveAssemblyReference.cache

@@ -1,0 +1,95 @@
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\1.png
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\10.png
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\11.png
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\12.png
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\2.png
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\3.png
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\4.png
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\5.png
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\6.png
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\7.png
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\8.png
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\9.png
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Setup\CatalogBrands.csv
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Setup\CatalogItems.csv
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Setup\CatalogItems.zip
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Setup\CatalogTypes.csv
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Catalog.API.deps.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Catalog.API.runtimeconfig.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Catalog.API.runtimeconfig.dev.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Catalog.API.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Catalog.API.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\EventBus.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\EventBusRabbitMQ.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\EventBusServiceBus.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\IntegrationEventLogEF.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.AzureStorage.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.SqlServer.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\WebHost.Customization.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\EventBusRabbitMQ.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\EventBusServiceBus.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\EventBus.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.AzureStorage.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.SqlServer.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\IntegrationEventLogEF.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\WebHost.Customization.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp2.0\Catalog.API.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp2.0\Catalog.API.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp2.0\Catalog.API.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp2.0\Catalog.API.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp2.0\Catalog.API.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp2.0\Catalog.API.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\1.png
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\10.png
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\11.png
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\12.png
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\2.png
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\3.png
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\4.png
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\5.png
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\6.png
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\7.png
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\8.png
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Pics\9.png
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Setup\CatalogBrands.csv
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Setup\CatalogItems.csv
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Setup\CatalogItems.zip
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Setup\CatalogTypes.csv
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Catalog.API.deps.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Catalog.API.runtimeconfig.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Catalog.API.runtimeconfig.dev.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Catalog.API.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Catalog.API.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\EventBus.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\EventBusRabbitMQ.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\EventBusServiceBus.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\IntegrationEventLogEF.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.AzureStorage.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.SqlServer.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\WebHost.Customization.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\EventBusRabbitMQ.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\EventBusServiceBus.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\EventBus.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.AzureStorage.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.SqlServer.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\IntegrationEventLogEF.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp2.0\WebHost.Customization.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp2.0\Catalog.API.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp2.0\Catalog.API.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp2.0\Catalog.API.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp2.0\Catalog.API.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp2.0\Catalog.API.csproj.CopyComplete
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp2.0\Catalog.API.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp2.0\Catalog.API.pdb

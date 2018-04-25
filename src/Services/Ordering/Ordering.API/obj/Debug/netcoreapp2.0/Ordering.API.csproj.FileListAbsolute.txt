@@ -1,0 +1,69 @@
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Setup\CardTypes.csv
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Setup\OrderStatus.csv
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.deps.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.runtimeconfig.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.runtimeconfig.dev.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\EventBus.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\EventBusRabbitMQ.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\EventBusServiceBus.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\IntegrationEventLogEF.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.SqlServer.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.Domain.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.Infrastructure.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\WebHost.Customization.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\EventBusRabbitMQ.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\EventBusServiceBus.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\EventBus.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\IntegrationEventLogEF.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.SqlServer.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\WebHost.Customization.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.Domain.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.Infrastructure.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Setup\CardTypes.csv
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Setup\OrderStatus.csv
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.deps.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.runtimeconfig.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.runtimeconfig.dev.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\EventBus.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\EventBusRabbitMQ.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\EventBusServiceBus.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\IntegrationEventLogEF.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.SqlServer.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.Domain.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.Infrastructure.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\WebHost.Customization.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\EventBusRabbitMQ.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\EventBusServiceBus.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\EventBus.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\IntegrationEventLogEF.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.SqlServer.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\WebHost.Customization.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.Domain.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.Infrastructure.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.csproj.CopyComplete
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.pdb

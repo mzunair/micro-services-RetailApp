@@ -1,0 +1,23 @@
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Infrastructure.deps.json
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Infrastructure.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Infrastructure.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Domain.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Domain.pdb
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.dll
+C:\Users\muhammad.zunair\Desktop\eShopOnContainers-dev\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Infrastructure.deps.json
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Infrastructure.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Infrastructure.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Domain.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Domain.pdb
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.csproj.CopyComplete
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.dll
+C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.pdb

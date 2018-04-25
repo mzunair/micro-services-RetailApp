@@ -1,0 +1,171 @@
+version: '3.3'
+
+services:
+  basket.api:
+    image: eshop/basket.api:dev
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_basket.api$
+    volumes:
+      - C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Basket\Basket.API:/app
+      - C:\Users\muhammad.zunair\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_basket.api$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_basket.api$ bin/Debug/netcoreapp2.0/Basket.API.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""
+
+  catalog.api:
+    image: eshop/catalog.api:dev
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_catalog.api$
+    volumes:
+      - C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Catalog\Catalog.API:/app
+      - C:\Users\muhammad.zunair\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_catalog.api$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_catalog.api$ bin/Debug/netcoreapp2.0/Catalog.API.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""
+
+
+  identity.api:
+    image: eshop/identity.api:dev
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_identity.api$
+    volumes:
+      - C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Identity\Identity.API:/app
+      - C:\Users\muhammad.zunair\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_identity.api$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_identity.api$ bin/Debug/netcoreapp2.0/Identity.API.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""
+
+
+  locations.api:
+    image: eshop/locations.api:dev
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_locations.api$
+    volumes:
+      - C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Location\Locations.API:/app
+      - C:\Users\muhammad.zunair\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_locations.api$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_locations.api$ bin/Debug/netcoreapp2.0/Locations.API.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""
+
+
+  marketing.api:
+    image: eshop/marketing.api:dev
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_marketing.api$
+    volumes:
+      - C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Marketing\Marketing.API:/app
+      - C:\Users\muhammad.zunair\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_marketing.api$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_marketing.api$ bin/Debug/netcoreapp2.0/Marketing.API.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""
+
+
+  ordering.api:
+    image: eshop/ordering.api:dev
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_ordering.api$
+    volumes:
+      - C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Ordering\Ordering.API:/app
+      - C:\Users\muhammad.zunair\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_ordering.api$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_ordering.api$ bin/Debug/netcoreapp2.0/Ordering.API.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""
+
+
+  payment.api:
+    image: eshop/payment.api:dev
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_payment.api$
+    volumes:
+      - C:\Users\muhammad.zunair\Desktop\Retail Application\src\Services\Payment\Payment.API:/app
+      - C:\Users\muhammad.zunair\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_payment.api$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_payment.api$ bin/Debug/netcoreapp2.0/Payment.API.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""
+
+
+  webmvc:
+    image: eshop/webmvc:dev
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_webmvc$
+    volumes:
+      - C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebMVC:/app
+      - C:\Users\muhammad.zunair\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_webmvc$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_webmvc$ bin/Debug/netcoreapp2.0/WebMVC.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""
+
+
+  webspa:
+    image: eshop/webspa:dev
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_webspa$
+    volumes:
+      - C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebSPA:/app
+      - C:\Users\muhammad.zunair\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_webspa$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_webspa$ bin/Debug/netcoreapp2.0/WebSPA.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""
+
+
+  webstatus:
+    image: eshop/webstatus:dev
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_webstatus$
+    volumes:
+      - C:\Users\muhammad.zunair\Desktop\Retail Application\src\Web\WebStatus:/app
+      - C:\Users\muhammad.zunair\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_webstatus$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_webstatus$ bin/Debug/netcoreapp2.0/WebStatus.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""
+
